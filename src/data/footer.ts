@@ -7,7 +7,7 @@ export const footerLinks = [
 ];
 
 export const socials = [
-  { label: "Instagram", href: "https://instagram.com" },
-  { label: "WhatsApp", href: "https://wa.me" },
+  { label: "Instagram", href: "https://www.instagram.com/orcao.studio" },
+  { label: "WhatsApp", href: "https://wa.me/+6289510391131" },
   { label: "Google Maps", href: "https://maps.google.com" },
 ];
